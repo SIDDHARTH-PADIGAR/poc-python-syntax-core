@@ -25,3 +25,13 @@ Write clean, type-safe, reusable building blocks
 Prepare for larger projects involving APIs, data pipelines, and ML logic
 
 ---
+
+## Real-World Mappings
+
+| Concept                 | Applied Use                                                |
+| ----------------------- | ---------------------------------------------------------- |
+| Type hints              | Enforced in production CI/CD pipelines (`mypy`, `pyright`) |
+| Comprehensions          | Common in ETL/data wrangling, ML preprocessing             |
+| `*args` / `**kwargs`    | Powers CLI tools, API layers, DB connectors                |
+| `enumerate()` / `zip()` | Used in tabular data processing, reports                   |
+| Functional tools        | Used in config validation, rule engines, transformations   |
