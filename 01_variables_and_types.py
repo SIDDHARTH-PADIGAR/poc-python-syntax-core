@@ -44,7 +44,7 @@ def print_state():
     print("Company:", company_name)
     print("Department:", departments)
     print("Office location:", office_location)
-    log_metric("MonthluUsers", 10482)
+    log_metric("MonthlyUsers", 10482)
     log_metric("ConversionRate", "5.3%")
 
 if __name__ == "__main__":
