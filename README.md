@@ -1,4 +1,4 @@
-# Python Syntax & Core Concepts - Real-World PoCs
+# Python Syntax & Core Concepts: Real-World PoCs
 
 This repository contains focused, production-inspired Proof-of-Concepts (PoCs) for mastering core Python syntax and constructs. Each file is modular and demonstrates practical usage in scenarios you’ll encounter as a backend, platform, or AI/ML engineer.
 
